@@ -1,0 +1,23 @@
+/vendor/
+/temp/*
+.phpcs-cache
+*.cache
+db.php
+.idea
+.github/
+Dockerfile
+README.md
+Simple - MVC.png
+captain-definition
+composer.json
+composer.lock
+config/
+docker-entry.sh
+grumphp.yml
+nginx.conf
+php.ini
+phpcs.xml
+phpmd.xml
+phpstan.neon
+simple-mvc.sql
+
